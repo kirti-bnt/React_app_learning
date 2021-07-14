@@ -1,6 +1,6 @@
 # The E-commerce react web application
 
-![Project Image]('./screen_dashboard.png')
+![Project Image]('screen_dashboard.png')
 
 > Learning React Application
 
