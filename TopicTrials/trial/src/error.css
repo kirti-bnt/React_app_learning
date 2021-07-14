@@ -1,0 +1,11 @@
+.error-cought {
+  background-color: bisque;
+  color: chocolate;
+  width: 100%;
+  height: 100%;
+  justify-content: center;
+  display: inline-block;
+  margin-top: 5vh;
+  /* flex-wrap: wrap; */
+  justify-content: flex-start;
+}

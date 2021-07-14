@@ -1,0 +1,12 @@
+.display-data {
+  justify-content: center;
+  background: rgb(179, 219, 226);
+  color: rgb(77, 77, 77);
+  margin-top: 5vh;
+  padding: 2vh;
+  border-radius: 12px;
+  margin-left: 5vw;
+  margin-right: 5vw;
+
+  /* margin: 0 auto; */
+}

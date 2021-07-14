@@ -1,0 +1,49 @@
+.login-component {
+  background-color: rgb(247, 245, 245);
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  padding: 4vw;
+}
+
+.section-login-form {
+  width: 50vw;
+  height: fit-content;
+  background-color: rgb(255, 255, 255);
+  display: flex;
+  justify-content: left;
+
+  text-align: left;
+
+  border-radius: 4px;
+}
+
+.section-block {
+  /* background-color: teal; */
+  /* display: flex; */
+  float: right;
+  margin-left: 4vw;
+}
+
+.section-block img {
+  width: 25vw;
+  height: 31vw;
+  float: right;
+  border-radius: 0 4px 4px 0;
+  object-fit: cover;
+}
+
+.section-block-form {
+  padding-top: 2vw;
+  padding-bottom: 2vw;
+  padding-left: 3vw;
+}
+
+@media screen and (max-width: 765px) {
+  .section-block img {
+    display: none;
+  }
+  .section-login-form {
+    width: 100%;
+  }
+}
