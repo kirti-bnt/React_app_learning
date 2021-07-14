@@ -8,7 +8,6 @@
 
 ### Table of Contents
 
-
 - [Description](#description)
 - [How To Use](#how-to-use)
 - [References](#references)
@@ -20,16 +19,15 @@
 ## Description
 
 The aim to build this small E-commerce look alike application is for learning purpose only.
-This application is created with below technologies. 
+This application is created with below technologies.
 
 This project was bootstrapped with [Create React App] (https://github.com/facebook/create-react-app).
 
 #### Technologies
 
 - React JS
-- Redux 
-- React Bootstrap 
-
+- Redux
+- React Bootstrap
 
 [Back To The Top](#read-me-template)
 
@@ -38,7 +36,6 @@ This project was bootstrapped with [Create React App] (https://github.com/facebo
 ## How To Use
 
 #### Installation
-
 
 npm install : To install dependencies
 
@@ -94,5 +91,5 @@ SOFTWARE.
 
 ## Author Info
 
-- Kirti Yelavikar BNT Soft Pricate Limited
-[Back To The Top](#read-me-template)
+- Kirti Yelavikar (BNT Soft Private Limited)
+  [Back To The Top](#read-me-template)
